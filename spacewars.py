@@ -4,6 +4,7 @@ import math
 # from pygame import mixer
 # from pygame import mixer_music
 
+
 pygame.init()   #initialize pygame
 
 screen=pygame.display.set_mode((600,700))  #Creating the screen
